@@ -9,3 +9,8 @@ function devided(c, d) {
     return console.log(c / d);
 }
 devided(100, 5)
+
+function sqr(n) {
+    return console.log(n*n);
+}
+sqr(5)
