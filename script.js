@@ -14,3 +14,6 @@ function sqr(n) {
     return console.log(n*n);
 }
 sqr(5)
+
+
+//git push -u origin main
